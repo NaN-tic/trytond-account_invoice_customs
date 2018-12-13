@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:account.invoice,customs:"
+msgid "Customs"
+msgstr "Aduanas"
+
+msgctxt "field:account.invoice,customs_tariff_codes:"
+msgid "Customs Tariff Codes"
+msgstr "Código arancelario aduanas"
+
+msgctxt "field:account.invoice.line,customs_tariff_code:"
+msgid "Customs Tariff Codes"
+msgstr "Código arancelario aduanas"
+
+msgctxt "field:party.party,customs:"
+msgid "Customs"
+msgstr "Aduanas"
